@@ -1,0 +1,104 @@
+.positionRegister{
+    position: relative;
+    left: 150px;
+    font-size: x-large;
+    margin: auto;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+
+  .mainh1{
+      color: white;
+      font-weight: bold;
+      padding-left: 150px;
+  }
+.Cardposition{
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+  .list{
+
+    background-color: #F2F2F9;
+    text-align: center;
+    border: 15px #F2F2F9;
+    width: 60%;
+    padding-top: 20px;
+margin-left: auto;
+    margin-right: auto   }
+  .formstyle{
+
+        background-color: white;
+        width: 40%;
+        border: 0.5px white;
+        border-radius: 10px;
+        padding: 50px;
+       
+      
+  }
+
+  .buttonRegister{
+  
+        background-color:blue;
+        text-align: center;
+        width: 100%;
+        height: 50px;
+        border-radius: 10px;
+        padding : 5px;
+        color:white;  
+        position: relative;
+        left: 550px;
+        font-weight: bold;
+    font-size: x-large;
+   
+
+  }
+
+  .LinkStyle{
+font-weight: bold;
+
+  }
+  .Brandstyle{
+
+    background-color: white;
+    width: 40%;
+    border: 0.5px white;
+    border-radius: 10px;
+    padding: 50px;
+   
+  
+}
+  
+  .full-height {
+    height: 100%;
+  }
+.background {
+    background-image: url(background.jpg);
+    background-size: 100%;
+    padding: 50px;
+    height:100vh;
+  }
+
+.positionLinks{
+    position: relative;
+    text-align: center;
+    padding-left: 100px;
+    font-size: large;
+}
+
+.center {
+    font-size: large;
+    position: absolute;
+
+  }
+
+  .centerLogo {
+      position: relative;
+    left: 100;
+    padding: 10px;
+    font-size: x-large;
+    color: white;
+  }

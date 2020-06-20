@@ -1,11 +1,13 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+
+import {StyleNavigationMenu} from '../Styling/StyleNavigationMenu'
+
 
 function HomePage() {
   return (
-      <div>
-          <h1>Home Page</h1>
-          <Link to="/register">Register</Link>
+      <div>         
+          
+          <StyleNavigationMenu/>
       </div>
  
   );
